@@ -1,1 +1,1 @@
-"# wordpassword" 
+Wordpassword is an Tool written in MS C# to try show passwords from Word Documents of Microsoft Office.
