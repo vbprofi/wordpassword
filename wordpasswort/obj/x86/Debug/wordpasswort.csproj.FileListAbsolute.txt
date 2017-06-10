@@ -1,0 +1,7 @@
+c:\users\homepc\documents\visual studio 2010\Projects\wordpasswort\wordpasswort\obj\x86\Debug\wordpasswort.Form1.resources
+c:\users\homepc\documents\visual studio 2010\Projects\wordpasswort\wordpasswort\obj\x86\Debug\wordpasswort.Properties.Resources.resources
+c:\users\homepc\documents\visual studio 2010\Projects\wordpasswort\wordpasswort\obj\x86\Debug\wordpasswort.csproj.GenerateResource.Cache
+c:\users\homepc\documents\visual studio 2010\Projects\wordpasswort\wordpasswort\bin\Debug\wordpasswort.exe
+c:\users\homepc\documents\visual studio 2010\Projects\wordpasswort\wordpasswort\bin\Debug\wordpasswort.pdb
+c:\users\homepc\documents\visual studio 2010\Projects\wordpasswort\wordpasswort\obj\x86\Debug\wordpasswort.exe
+c:\users\homepc\documents\visual studio 2010\Projects\wordpasswort\wordpasswort\obj\x86\Debug\wordpasswort.pdb
